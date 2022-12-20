@@ -22,7 +22,7 @@ class Solution {
         }
         
         grid[row][col] = 0;
-        arr.add(row - r );
+        arr.add(row - r);
         arr.add(col - c);
         dfs(grid , row + 1 , col , r , c , n , m , arr);
         dfs(grid , row , col + 1 , r , c , n , m , arr);
