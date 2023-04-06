@@ -1,5 +1,5 @@
 // Longest SubArray with Given Sum K
-
+// Only positive Element in an array
 
 // Brute Force
 // Time Complexity : O(n^2)
