@@ -18,3 +18,5 @@ class Solution{
         return n % 2 == 0 ? myPow(x * x , n / 2) : x * myPow(x * x , n / 2);
    }    
 }
+
+
