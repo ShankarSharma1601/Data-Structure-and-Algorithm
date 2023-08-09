@@ -3,10 +3,6 @@
 // Space Complexity : O(m*n), Maximum Depth of the recursion tree(auxiliary space).
 
 
-
-// User function Template for Java
-
-// m is the given matrix and n is the order of matrix
 class Solution {
     public static ArrayList<String> findPath(int[][] m, int n) {
         
