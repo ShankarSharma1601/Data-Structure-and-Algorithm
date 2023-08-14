@@ -1,4 +1,7 @@
 // Word Break
+// Time Complexity : O(nlogn)
+// Space Complexity : O(n)
+
 
 class Solution {
     public boolean wordBreak(String A, List<String> B) {
